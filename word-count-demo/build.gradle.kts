@@ -1,8 +1,3 @@
-
-
-plugins {
-    java
-
-    application
+application {
+    mainClassName = "word.count.demo.App"
 }
-
